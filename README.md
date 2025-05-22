@@ -1,5 +1,7 @@
 # SNGAN-for-MNIST-Image-Generation
 
+# **Introduction to SN GAN 💡**
+
 **Spectral Normalization Generative Adversarial Networks (SN GANs)** represent a significant advancement in the **realm of deep learning**, building upon the foundation laid by **Deep Convolutional Generative Adversarial Networks (DC GANs).** **DC GANs**, at their core, consist of a **dynamic interplay** between **a generator and a discriminator**, both leveraging **convolutional layers** in their architecture.
 
 The **generator's primary objective** is to **craft synthetic images**, while the **discriminator's role is to distinguish between authentic and fabricated images**. This nuanced exchange creates a **dynamic training game**, wherein both entities **continually refine their strategies**. The generator refines its ability to produce **increasingly realistic synthetic images**, while the discriminator hones its **knack for differentiating between genuine and generated content**. The convergence of this **iterative process** marks the **culmination of training** when the generator achieves proficiency in **generating synthetic images that closely resemble authentic ones.**
