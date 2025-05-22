@@ -1,1 +1,1 @@
-### SNGAN-for-MNIST-Image-Generation
+# SNGAN-for-MNIST-Image-Generation
